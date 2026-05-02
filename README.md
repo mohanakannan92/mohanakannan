@@ -36,7 +36,6 @@ I am a **Cyber Security Professional** and **Cloud and AI Security Engineer** de
 [![Email](https://shields.io)](mailto:mkdignifiedpilot92@gmail.com)
 
 ---
----
 ### 🌿 The Philosophy
 "Securing the Digital Wilderness: Where the Universe meets the Process."
 (Inspired by John Muir & Bruce Schneier)
