@@ -1,19 +1,9 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=1600&auto=format&fit=crop" width="100%" />
+  <img src="https://images.unsplash.com/photo-1448375240586-882707db888b?q=80&w=1600&auto=format&fit=crop" width="100%" />
 </p>
 
----
-
-<h2 align="center">🛡️ Cloud & AI Security Engineer</h2>
-<p align="center">Securing AI Systems • Defending LLMs • Building Cloud Security</p>
-
----
-
-<h2 align="center">🛡️ Cloud & AI Security Engineer</h2>
-
-<p align="center">
-  Securing AI Systems • Defending LLMs • Building Cloud Security Architectures
-</p>
+<h1 align="center">🌲 Mohanakannan M</h1>
+<h3 align="center">🛡️ Securing AI Systems • Defending LLMs</h3>
 
 ---
 
