@@ -1,5 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:081c15,50:1b4332,100:2d6a4f&height=200&section=header&text=Mohanakannan%20M&fontSize=34&fontColor=d8f3dc&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2600&pause=900&color=52B788&center=true&vCenter=true&width=700&lines=👋+Welcome+to+my+forest...;🌲+Patrolling+AI+Systems;🛡️+I’m+Mohanakannan+M;⚔️+Defending+LLMs+from+Threats" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:081c15,30:1b4332,60:2d6a4f,100:52b788&height=240&section=header&text=🌲%20Mohanakannan%20M&fontSize=40&fontColor=d8f3dc&animation=fadeIn&fontAlignY=35&desc=🛡️%20Forest%20Ranger%20of%20AI%20Security%20•%20LLM%20Defense%20Engineer&descAlignY=58&descSize=16" />
+  
+   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:081c15,100:1b4332&height=2&section=header" />
+   
+   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="420" />
+  
 </p>
 
 <h2 align="center">🛡️ Cloud & AI Security Engineer</h2>
