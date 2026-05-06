@@ -7,12 +7,6 @@
   
 </p>
 
-<h2 align="center">🛡️ Cloud & AI Security Engineer</h2>
-
-<p align="center">
-  Securing AI Systems • Defending LLMs • Building Cloud Security Architectures
-</p>
-
 ---
 
 ## ⚡ At a Glance
