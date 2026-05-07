@@ -6,7 +6,7 @@
 
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:081c15,30:1b4332,60:2d6a4f,100:52b788&height=240&section=header&text=%F0%9F%8C%B2%20Mohanakannan&fontSize=36&fontColor=d8f3dc&animation=fadeIn&fontAlignY=35&desc=%F0%9F%9B%A1%EF%B8%8F%20InfoSec%20Professional%20%7C%20Cloud%20%26%20AI%20Security&descAlignY=58&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:081c15,30:1b4332,60:2d6a4f,100:52b788&height=240&section=header&text=Mohanakannan&fontSize=36&fontColor=d8f3dc&animation=fadeIn&fontAlignY=35&desc=InfoSec%20Professional%20%7C%20Cloud%20and%20AI%20Security&descAlignY=58&descSize=16"
   />
 
 </p>
