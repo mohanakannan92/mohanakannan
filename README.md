@@ -1,7 +1,7 @@
 <p align="center">
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=900&color=52B788&center=true&vCenter=true&width=700&lines=Welcome+to+my+forest;I+am+Mohanakannan;Building+Secure+AI+and+Cloud+Defense+Systems"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=900&color=52B788&center=true&vCenter=true&width=700&lines=Welcome+to+my+forest;I+am+Mohanakannan;Building+Secure+AI+and+Cloud+Offense+Defense+Systems"
   />
 
   <img
