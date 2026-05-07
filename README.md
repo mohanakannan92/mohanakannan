@@ -1,7 +1,7 @@
 <p align="center">
 
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2600&pause=900&color=52B788&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Welcome+to+my+forest...;%F0%9F%8C%B2+I%E2%80%99m+Mohanakannan;%F0%9F%9B%A1%EF%B8%8F+Patrolling+Cloud+and+AI+Systems+from+Threats"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=900&color=52B788&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Welcome+to+my+forest...;%F0%9F%8C%B2+I%E2%80%99m+Mohanakannan;%F0%9F%9B%A1%EF%B8%8F+Building+Secure+AI+and+Cloud+Defense+Systems"
   />
 
   <img
